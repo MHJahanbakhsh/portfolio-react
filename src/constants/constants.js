@@ -9,23 +9,33 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Notes Application',
+    description: 'a note taking application with react and redux. i used google oauth2 for authenctication and JSON-server as dummy backend',
+      image: '/images/4.png',
+      tags: ['React', 'Redux', 'Authentication','rest-api'],
+    source: 'https://github.com/MHJahanbakhsh/ReactRedux-NoteApplication',
+    visit: 'https://react-redux-note.herokuapp.com/',
+    id: 1,
+  },
+ 
+  {
+    title: 'Personal Portfolio v2',
+    description: "This is the current website you're viewing right now!;Built with nextjs",
+      image: '/images/3.png',
+      tags: ['React', 'Nextjs','StyledComponents'],
+    source: 'https://google.com',
+    visit: '#',
+    id: 3,
+  },
+  {
     title: 'E-Commerce',
     description:"it's still on progress and not ready yet but While building it i'm  learning many advanced React & JavaScript topics, as well as how to use Stripe for card transactions",
     image: '/images/2.png',
     tags: ['React', 'JavaScript','Nodejs','MongoDB'],
     source: '',
     visit: '',
-    id: 1,
-  },
-  {
-    title: 'Personal Portfolio v2',
-    description: "This is the current website you're viewing right now!",
-      image: '/images/3.png',
-      tags: ['React', 'Nextjs','StyledComponents'],
-    source: 'https://google.com',
-    visit: '#',
     id: 2,
-  },
+  }
   
 ];
 
@@ -34,5 +44,6 @@ export const TimeLineData = [
   { year: 2018, text: 'switched to Work as a software engineer', },
   { year: 2019, text: 'developed my skills and knowledge in web stack', },
   { year: 2020, text: 'worked on my personal projects and intrests alongside with my job', },
-  { year: 2021, text: 'and the story still goes on', },
+  { year: 2021, text: 'teaching programming to Associate degree students in a vocational and technical university', },
+  { year: 2022, text: 'and the story goes on', }
 ];

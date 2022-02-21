@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>{String.fromCharCode(169)+'2021 MohammadHossein Jahanbakhsh All Rights Reserved'}</Slogan>
+          <Slogan>{String.fromCharCode(169)+'2022 MohammadHossein Jahanbakhsh All Rights Reserved'}</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/MHJahanbakhsh">
