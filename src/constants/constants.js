@@ -23,7 +23,7 @@ export const projects = [
     description: "This is the current website you're viewing right now!;Built with nextjs",
       image: '/images/3.png',
       tags: ['React', 'Nextjs','StyledComponents'],
-    source: 'https://google.com',
+    source: 'https://github.com/MHJahanbakhsh/portfolio-react',
     visit: '#',
     id: 3,
   },
