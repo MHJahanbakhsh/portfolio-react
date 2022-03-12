@@ -14,7 +14,7 @@ export const projects = [
       image: '/images/4.png',
       tags: ['React', 'Redux', 'Authentication','rest-api'],
     source: 'https://github.com/MHJahanbakhsh/ReactRedux-NoteApplication',
-    visit: 'https://react-redux-note.herokuapp.com/',
+    visit: 'https://thirsty-villani-8f7cb1.netlify.app',
     id: 1,
   },
  
